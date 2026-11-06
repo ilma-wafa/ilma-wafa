@@ -149,7 +149,7 @@ My current focus is building practical QA engineering capability across:
 
 ## Currently Learning
 
-`Playwright` · `TypeScript` · `API Testing` · `SQL` · `ISTQB CTFL`
+`Playwright` · `TypeScript` · `API Testing` · `SQL` 
 
 ---
 
@@ -157,6 +157,7 @@ My current focus is building practical QA engineering capability across:
 
 | Credential | Issuer | Year |
 |---|---|---|
+| ISTQB Certified Tester Foundation Level (CTFL) v4.0 | ISTQB | 2026 |
 | Microsoft AI Skills Challenge | Microsoft | 2026 |
 | Google Python Crash Course | Google / Coursera | 2025 |
 | BEng Hons Software Engineering | London Metropolitan University | 2025 |
